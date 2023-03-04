@@ -7,4 +7,4 @@ DESCUBRIR EL NUMERO MAYOR
 
 ## Diagrama de flujo
 
-![Diagrama de flujo](diagramasex.png "Diagrama de flujo")
+![Diagrama de flujo](diagramasex2.png "Diagrama de flujo")
